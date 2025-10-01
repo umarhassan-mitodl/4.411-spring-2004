@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "legacy_uid": "5c8017c8-dc9f-3291-39d7-451b93c740bc",
+  "instructors": {
+    "content": [
+      "bf853f90-553d-58d6-e5d0-0cc28fd59141"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8b799287-543b-2a3c-3261-4da3acf62201",
+    "website": "4-411-building-technology-laboratory-spring-2004"
+  },
+  "course_title": "Building Technology Laboratory",
+  "hide_download": true,
+  "course_description": "In this class, concepts of building technology and experimental methods are studied, in class and in lab assignments. Projects vary yearly and have included design and testing of strategies for daylighting, passive heating and cooling, and improved indoor air quality via natural ventilation. Experimental methods focus on measurement and analysis of thermally driven and wind-driven airflows, lighting intensity and glare, and heat flow and thermal storage. Experiments are conducted at model and full scale and are often motivated by ongoing field work in developing countries.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.411",
+  "course_image_thumbnail": {
+    "content": "182ba9b4-dda9-2b49-4884-eb0c7e796bb8",
+    "website": "4-411-building-technology-laboratory-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Design Assignments"
+  ],
+  "site_uid": "6c6f4e86-3b5f-4efb-b544-ffeb4ebc750a",
+  "site_short_id": "4.411-spring-2004",
+  "site_url_path": "courses/4-411-building-technology-laboratory-spring-2004",
+  "title": "Course Metadata"
+}
